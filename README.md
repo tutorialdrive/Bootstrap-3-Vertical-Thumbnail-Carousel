@@ -1,4 +1,42 @@
-&lt;div class="carousel-inner"&gt;
+##Vertical Thumbnail Carousel
+This repository use for add vertical thumbnail carosel while using Twitter Bootstrap V 3.0.3
+
+##Browser Compatibility (Tested on)
+>+ Internet Explorer 8.0 (No border Support)
+
+>+ Internet Explorer 9.0
+
+>+ .Internet Explorer 10.0
+
+>+ Internet Explorer 11.0
+
+>+ Windows Phone 7 - 8 IE 9 - 10
+
+>+ Google Chrome Version 32.0.1700.76 m
+
+>+ Firefox Version 26.0
+
+## How To Invoke code in Action ?
+#####CSS Call
+<pre><code>&lt;link href="css/bootstrap.css" rel="stylesheet" type="text/css"&gt;
+&lt;link href="css/style.css" rel="stylesheet" type="text/css"&gt;
+</code></pre>
+
+####Js Call
+<pre><code>&lt;script src="js/jquery.min.js">&lt;/script> 
+&lt;script src="js/bootstrap.js">&lt;/script> 
+&lt;script src="js/script.js">&lt;/script></pre></code>
+
+####HTML Code
+######Add Navigation Icon
+
+<pre><code>&lt;a class="left carousel-control" href="#myCarousel" data-slide="prev">&lt;img src="icon/up.png">&lt;/a>
+&lt;a class="right carousel-control" href="#myCarousel" data-slide="next">&lt;img src="icon/down.png">&lt;/a></code></pre>
+
+
+######Add  Carousel items
+
+<pre><code>&lt;div class="carousel-inner"&gt;
 			
 		&lt;div class="item active"&gt;
 			&lt;div class="row-fluid"&gt;
@@ -57,8 +95,7 @@
 			&lt;/div&gt;&lt;!--/row-fluid--&gt;
 		&lt;/div&gt;&lt;!--/item--&gt;
      
-    &lt;/div&gt;
-
+    &lt;/div&gt;</code></pre>
 ##Contributing
 
 >1 Fork it.
