@@ -22,14 +22,14 @@ This repository use for add vertical thumbnail carosel while using Twitter Boots
 &lt;link href="css/style.css" rel="stylesheet" type="text/css"&gt;
 </code></pre>
 
-#
-#Js Call
+
+Js Call
 <pre><code>&lt;script src="js/jquery.min.js">&lt;/script> 
 &lt;script src="js/bootstrap.js">&lt;/script> 
 &lt;script src="js/script.js">&lt;/script></pre></code>
 
-####HTML Code
-######Add Navigation Icon
+HTML Code
+Add Navigation Icon
 
 <pre><code>&lt;a class="left carousel-control" href="#myCarousel" data-slide="prev">&lt;img src="icon/up.png">&lt;/a>
 &lt;a class="right carousel-control" href="#myCarousel" data-slide="next">&lt;img src="icon/down.png">&lt;/a></code></pre>
@@ -97,14 +97,17 @@ This repository use for add vertical thumbnail carosel while using Twitter Boots
 		&lt;/div&gt;&lt;!--/item--&gt;
      
     &lt;/div&gt;</code></pre>
-##Contributing
+Contributing
+
 >1 Fork it.
+
 >2 Open a Pull Request
+
 
 ##License
 Some the css were written by Bootstrap and therefore fall under their license. All other source code is released under the MIT License.
 
-##Support
+Support
 <pre>
 For any query and development help. mail me at contact@tutorialdrive.org
 </pre>
