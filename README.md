@@ -97,17 +97,20 @@ Add Navigation Icon
 		&lt;/div&gt;&lt;!--/item--&gt;
      
     &lt;/div&gt;</code></pre>
-Contributing
+<h2>Contributing</h2>
+<hr>
 <br>
->1 Fork it.
+1 Fork it.
 <br>
->2 Open a Pull Request
+2 Open a Pull Request
 <br>
 
-<br>License
+<br><h2>License</h2><hr><br>
+
 Some the css were written by Bootstrap and therefore fall under their license. All other source code is released under the MIT License.
 
-Support
+<h2>Support</h2>
+<hr>
 <pre>
 For any query and development help. mail me at contact@tutorialdrive.org
 </pre>
