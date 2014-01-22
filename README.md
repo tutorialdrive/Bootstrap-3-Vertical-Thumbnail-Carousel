@@ -17,12 +17,12 @@ This repository use for add vertical thumbnail carosel while using Twitter Boots
 >+ Firefox Version 26.0
 
 ## How To Invoke code in Action ?
-#####CSS Call
+##CSS Call
 <pre><code>&lt;link href="css/bootstrap.css" rel="stylesheet" type="text/css"&gt;
 &lt;link href="css/style.css" rel="stylesheet" type="text/css"&gt;
 </code></pre>
 
-####Js Call
+##Js Call
 <pre><code>&lt;script src="js/jquery.min.js">&lt;/script> 
 &lt;script src="js/bootstrap.js">&lt;/script> 
 &lt;script src="js/script.js">&lt;/script></pre></code>
@@ -34,7 +34,7 @@ This repository use for add vertical thumbnail carosel while using Twitter Boots
 &lt;a class="right carousel-control" href="#myCarousel" data-slide="next">&lt;img src="icon/down.png">&lt;/a></code></pre>
 
 
-######Add  Carousel items
+##Add  Carousel items
 
 <pre><code>&lt;div class="carousel-inner"&gt;
 			
@@ -97,9 +97,7 @@ This repository use for add vertical thumbnail carosel while using Twitter Boots
      
     &lt;/div&gt;</code></pre>
 ##Contributing
-
 >1 Fork it.
-
 >2 Open a Pull Request
 
 ##License
