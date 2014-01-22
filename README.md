@@ -98,13 +98,13 @@ Add Navigation Icon
      
     &lt;/div&gt;</code></pre>
 Contributing
-
+<br>
 >1 Fork it.
-
+<br>
 >2 Open a Pull Request
+<br>
 
-
-##License
+<br>License
 Some the css were written by Bootstrap and therefore fall under their license. All other source code is released under the MIT License.
 
 Support
