@@ -22,7 +22,8 @@ This repository use for add vertical thumbnail carosel while using Twitter Boots
 &lt;link href="css/style.css" rel="stylesheet" type="text/css"&gt;
 </code></pre>
 
-Js Call
+#
+#Js Call
 <pre><code>&lt;script src="js/jquery.min.js">&lt;/script> 
 &lt;script src="js/bootstrap.js">&lt;/script> 
 &lt;script src="js/script.js">&lt;/script></pre></code>
