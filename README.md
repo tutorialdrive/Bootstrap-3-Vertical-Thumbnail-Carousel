@@ -3,7 +3,7 @@ This repository use for add vertical thumbnail carosel while using Twitter Boots
 
 ##Browser Compatibility (Tested on)
 >+ Internet Explorer 8.0 (No border Support)
-
+Add Carousel items
 >+ Internet Explorer 9.0
 
 >+ .Internet Explorer 10.0
@@ -35,7 +35,7 @@ Add Navigation Icon
 &lt;a class="right carousel-control" href="#myCarousel" data-slide="next">&lt;img src="icon/down.png">&lt;/a></code></pre>
 
 
-##Add  Carousel items
+Add  Carousel items
 
 <pre><code>&lt;div class="carousel-inner"&gt;
 			
