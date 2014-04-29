@@ -1,0 +1,119 @@
+/* ===========================================================
+ * style.css v1.0
+ * ===========================================================
+ * Copyright 2014 Shivam Pandya - Tutorial Drive.
+ * http://www.tutorialdrive.org
+ *
+ * Create an Vertical Thumbnail Carousel For Twitter Bootstrap v3.0.3
+ *
+ * 
+ * License: MIT License
+ * http://opensource.org/licenses/MIT
+ *
+ * ========================================================== */
+.carousel-indicators .active {
+	position: absolute;
+	top: 12% !important;
+	width: 53px;
+	height: 53px;
+background: #222;
+}
+
+.carousel-control {
+	position: absolute;
+	top: 8% !important;
+	left: 100px!important;
+	width: 53px;
+	height: 53px;
+	margin-top: -38px !important;
+	font-size: 30px !important;
+	font-weight: 100;
+	line-height: 44px !important;
+	color: #FFF;
+	text-align: center;
+	background: #222;
+	border: 3px solid #FFF;
+	-webkit-border-radius: 23px;
+	-moz-border-radius: 23px;
+	border-radius: 23px;
+	opacity: 0.5;
+	filter: alpha(opacity=50);
+}
+
+/* --------- END --------- */
+
+.carousel {
+	margin-bottom: 0;
+	padding: 50px 40px 50px 100px;
+}
+
+.carousel-control {
+	left: 107px;
+}
+.carousel-control.right {
+	right: -5px;
+	top:100%!important;
+}
+
+
+
+/*For top Indicator*/
+
+.carousel-indicators-top {
+	right: 50%;
+	top: auto;
+	bottom: 0px;
+	margin-rightight: -19px;
+}
+
+.carousel-indicators-top li {
+	background: #333333;
+}
+
+.carousel-indicators-top .active {
+	background: #333333;
+}
+ 
+ /* vertical start*/
+
+.vertical .carousel-inner {
+	height: 100%;
+	padding-top:25px;
+}
+
+.carousel.vertical .item {
+	-webkit-transition: 0.6s ease-in-out top;
+	-moz-transition: 0.6s ease-in-out top;
+	-ms-transition: 0.6s ease-in-out top;
+	-o-transition: 0.6s ease-in-out top;
+	transition: 0.6s ease-in-out top;
+}
+
+.carousel.vertical .active {
+	top: 0;
+}
+
+.carousel.vertical .next {
+	top: 100%;
+}
+
+.carousel.vertical .prev {
+	top: -100%;
+}
+
+.carousel.vertical .next.left,
+.carousel.vertical .prev.right {
+	top: 0;
+}
+
+.carousel.vertical .active.left {
+	top: -100%;
+}
+
+.carousel.vertical .active.right {
+	top: 100%;
+}
+
+.carousel.vertical .item {
+	left: 0;
+}​
