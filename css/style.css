@@ -43,6 +43,7 @@ background: #222;
 /* --------- END --------- */
 
 .carousel {
+	height:380px; /* carousel container  doesn't have an explicit height. Its child .carousel-inner has height:100%, but since #myCarousel doesn't have explicit height, this percentage value has no effect, as do %-based offsets of carousel items. */
 	margin-bottom: 0;
 	padding: 50px 40px 50px 100px;
 }
@@ -78,6 +79,7 @@ background: #222;
 
 .vertical .carousel-inner {
 	height: 100%;
+	padding-top:0px;
 }
 
 .carousel.vertical .item {
