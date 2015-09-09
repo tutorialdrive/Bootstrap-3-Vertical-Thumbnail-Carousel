@@ -1,3 +1,5 @@
+####Verticale Thumbnail Image Showcase "[Click Here](https://github.com/tutorialdrive/Bootstrap-Vertical-Image-Showcase)"
+
 ##Vertical Thumbnail Carousel
 This repository use for add vertical thumbnail carosel while using Twitter Bootstrap V 3.0.3
 
